@@ -27,9 +27,11 @@
       <value>
         <package name="" withSubpackages="true" static="true" />
         <emptyLine />
-        <package name="com" withSubpackages="false" static="false" />
+        <package name="com" withSubpackages="true" static="false" />
         <emptyLine />
         <package name="org" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="io" withSubpackages="true" static="false" />
         <emptyLine />
         <package name="" withSubpackages="true" static="false" />
         <emptyLine />
